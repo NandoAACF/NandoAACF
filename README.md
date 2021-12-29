@@ -17,7 +17,7 @@
 
 ## ✍ **Apa yang akan saya pelajari ke depannya?**
 - ### **Data Analytics & Machine Learning** 📊 <br>
-  Sejak saya mengikuti bootcamp "Data Science Training: Data Exploration and Visualization Using Python" yang diselenggarakan oleh DQ Lab, rasa ingin tahu saya mengenai dunia data dan machine learning semakin meningkat sehingga saya berniat mempelajari hal tersebut.
+  Sejak saya mengikuti bootcamp "Data Science Training: Data Exploration and Visualization Using Python" yang diselenggarakan oleh DQ Lab, rasa ingin tahu saya mengenai dunia data dan machine learning semakin meningkat sehingga saya berniat mendalami kedua hal tersebut.
 - ### **Artificial Intelligence** 🧠 <br>
   Melihat banyaknya peran AI dalam memudahkan kehidupan sehari-hari, saya terinspirasi menjadi salah satu orang yang berperan dalam memudahkan hidup banyak orang dengan memanfaatkan AI
 
