@@ -4,7 +4,6 @@
 
 ## 👦 **Tentang Saya**
 
-- 📃 Nama lengkap: **Agustinus Angelo Christian Fernando**
 - 🤓 Orang yang **sangat ingin tahu mengenai dunia IT** 🖥
 - 🔭 Saya sedang mempelajari **Data Visualization & OOP** 📈
 - 🕵️‍♀️ Saya tertarik mendalami **Machine Learning & Artificial Intelligence** 💻
