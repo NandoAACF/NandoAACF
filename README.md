@@ -5,7 +5,7 @@
 ## 👦 **Tentang Saya**
 
 - 🤓 Orang yang **sangat ingin tahu mengenai dunia IT** 🖥
-- 🔭 Saya sedang mempelajari **Data Visualization & OOP** 📈
+- 🔭 Saya sedang mempelajari **Data Exploratory, Data Visualization, & OOP** 📈
 - 🕵️‍♀️ Saya tertarik mendalami **Machine Learning & Artificial Intelligence** 💻
 - 🚗 Hobi: **Coding, menonton Youtube, & berpergian**
 - 😁 Fun fact: **Tidak lelah bermain laptop seharian** 💻
