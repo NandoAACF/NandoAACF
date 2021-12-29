@@ -1,6 +1,6 @@
 <h1 align="center"><b>Halo semuanya ✌, saya Nando</b></h1>
 <h2 align="center"><b>Mahasiswa S1 Teknologi Informasi Universitas Gadjah Mada👨‍🏫</b></h2>
-<h1></h1>
+
 
 ## 👦 **Tentang Saya**
 
