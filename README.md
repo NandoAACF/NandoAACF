@@ -5,7 +5,7 @@
 ## 👦 **Tentang Saya**
 
 - 🤓 Orang yang **sangat ingin tahu mengenai dunia IT** 🖥
-- 🔭 Saya sedang mempelajari **Data Exploratory, Data Visualization, & OOP** 📈
+- 🔭 Saya sedang mempelajari **Data Exploratory & OOP** 📈
 - 🕵️‍♀️ Saya tertarik mendalami **Machine Learning & Artificial Intelligence** 💻
 - 🚗 Hobi: **Coding, menonton Youtube, & berpergian**
 - 😁 Fun fact: **Tidak lelah bermain laptop seharian** 💻
@@ -15,7 +15,7 @@
 <h1></h1>
 
 ## ✍ **Apa yang akan saya pelajari ke depannya?**
-- ### **Data Analytics & Machine Learning** 📊 <br>
+- ### **Data Visualization, Data Analytics & Machine Learning** 📊 <br>
   Sejak saya mengikuti bootcamp "Data Science Training: Data Exploration and Visualization Using Python" yang diselenggarakan oleh DQ Lab, rasa ingin tahu saya mengenai dunia data dan machine learning semakin meningkat sehingga saya berniat mendalami kedua hal tersebut.
 - ### **Artificial Intelligence** 🧠 <br>
   Melihat banyaknya peran AI dalam memudahkan kehidupan sehari-hari, saya terinspirasi menjadi salah satu orang yang berperan dalam memudahkan hidup banyak orang dengan memanfaatkan AI
