@@ -46,7 +46,7 @@
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/officel/16/000000/react.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/offices/80/000000/react.png"/> </a> 
 </p>
 <h1></h1>
 
