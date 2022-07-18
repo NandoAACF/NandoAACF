@@ -15,7 +15,7 @@
 <h1></h1>
 
 ## ✍ **Apa yang sedang saya perdalam?**
-- ### **Web Development** 📊 <br>
+- ### **Web Development** 💻 <br>
   Saya sangat tertarik dengan dunia coding website. Hal tersebut menyebabkan saya mulai mendalami mengenai HTML, CSS, Javascript, React.Js, dan Next.Js. Selanjutnya, saya mengambil peran menjadi Front-End Web Developer untuk event terbesar di UGM, yaitu PPSMB UGM 2022 dan juga menjadi Front-End Web Developer untuk Open House DTETI UGM. Dari kedua event tersebut, semakin banyak hal mengenai web development yang bisa saya pelajari dan kembangkan, serta saya menjadi yakin bahwa web development adalah passion saya.
 - ### **Data Analytics & Machine Learning** 📊 <br>
   Sejak saya mengikuti bootcamp "Data Science Training: Data Exploration and Visualization Using Python" yang diselenggarakan oleh DQ Lab, rasa ingin tahu saya mengenai dunia data dan machine learning semakin meningkat sehingga saya berniat mendalami kedua hal tersebut.
