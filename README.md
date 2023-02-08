@@ -22,15 +22,16 @@
 - ### **Artificial Intelligence** 🧠 <br>
   Melihat banyaknya peran AI dalam memudahkan kehidupan sehari-hari, saya terinspirasi menjadi salah satu orang yang berperan dalam memudahkan hidup banyak orang dengan memanfaatkan AI
 
+## 📈 **Nando's Github Stats**
 <p align="left"> 
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NandoAACF&theme=Javascript-dark&fire=EB0000&border=F0DB4F)](https://git.io/streak-stats"/>
 </p>
 <h1></h1>
 
 ## 📞**Hubungi saya:**
 <p align="left">
 
-<a href = "https://id.linkedin.com/in/agustinus-angelo-christian-fernando-5021a0220"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://id.linkedin.com/in/agustinus-angelo-christian-fernando"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://wa.me/6282137175482"/><img src="https://img.icons8.com/color/48/000000/whatsapp--v4.png"/></a>
 <a href = "https://line.me/ti/p/OgnhWhq1us"><img src="https://img.icons8.com/color/48/000000/line-me.png"/></a>
 <a href = "https://www.instagram.com/nando_8686/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
