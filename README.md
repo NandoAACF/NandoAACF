@@ -22,6 +22,8 @@
 - ### **Artificial Intelligence** 🧠 <br>
   Melihat banyaknya peran AI dalam memudahkan kehidupan sehari-hari, saya terinspirasi menjadi salah satu orang yang berperan dalam memudahkan hidup banyak orang dengan memanfaatkan AI
 
+<h1></h1>
+
 ## 📈 **Nando's Github Stats**
 <p align="left"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NandoAACF&theme=Javascript-dark&fire=EB0000&border=F0DB4F)](https://git.io/streak-stats"/>
