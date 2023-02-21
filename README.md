@@ -18,7 +18,7 @@
 - ### **Web Development** 💻 <br>
   Saya sangat tertarik dengan dunia coding website. Hal tersebut menyebabkan saya mulai mendalami mengenai HTML, CSS, Javascript, React.Js, dan Next.Js. Selanjutnya, saya mengambil peran menjadi Front-End Web Developer untuk event terbesar di UGM, yaitu PPSMB UGM 2022. Saya juga memiliki pengalaman Internship sebagai Front-End Web Developer untuk salah satu startup bernama Pathseeker dan saya juga menjadi Front-End Web Developer untuk Open House DTETI UGM. Saya memiliki pengalaman sebagai Sub-Koordinator untuk Web Developer di event Technocorner 2023. Dari berbagai event tersebut, semakin banyak hal mengenai web development yang bisa saya pelajari dan kembangkan, serta saya menjadi yakin bahwa web development adalah passion saya.
 - ### **Data Analytics & Machine Learning** 📊 <br>
-  Sejak saya mengikuti bootcamp "Data Science Training: Data Exploration and Visualization Using Python" yang diselenggarakan oleh DQ Lab, rasa ingin tahu saya mengenai dunia data dan machine learning semakin meningkat sehingga saya berniat mendalami kedua hal tersebut.
+  Sejak saya mengikuti bootcamp "Data Science Training: Data Exploration and Visualization Using Python" yang diselenggarakan oleh DQ Lab, rasa ingin tahu saya mengenai dunia data dan machine learning semakin meningkat sehingga saya berniat mendalami kedua hal tersebut. Saat ini, saya sedang melatih skill data saya dengan membuat berbagai portofolio mengenai Data Science dan Machine Learning
 - ### **Artificial Intelligence** 🧠 <br>
   Melihat banyaknya peran AI dalam memudahkan kehidupan sehari-hari, saya terinspirasi menjadi salah satu orang yang berperan dalam memudahkan hidup banyak orang dengan memanfaatkan AI
 
