@@ -25,7 +25,7 @@
 <h1></h1>
 
 ## 📈 **Nando's Github Stats**
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=NandoAACF)
 <p align="left"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NandoAACF&theme=Javascript-dark&fire=EB0000&border=F0DB4F)](https://git.io/streak-stats"/>
 </p>
