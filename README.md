@@ -20,7 +20,7 @@
 - ### **Data Analytics & Machine Learning** 📊 <br>
   Sejak saya mengikuti bootcamp "Data Science Training: Data Exploration and Visualization Using Python" yang diselenggarakan oleh DQ Lab, rasa ingin tahu saya mengenai dunia data dan machine learning semakin meningkat sehingga saya berniat mendalami kedua hal tersebut. Saat ini, saya sedang melatih skill data saya dengan membuat berbagai portofolio mengenai Data Science dan Machine Learning
 - ### **Artificial Intelligence** 🧠 <br>
-  Melihat banyaknya peran AI dalam memudahkan kehidupan sehari-hari, saya terinspirasi menjadi salah satu orang yang berperan dalam memudahkan hidup banyak orang dengan memanfaatkan AI
+  Melihat banyaknya peran AI dalam memudahkan kehidupan sehari-hari, saya terinspirasi menjadi salah satu orang yang berperan dalam memudahkan hidup banyak orang dengan memanfaatkan AI. Implementasi AI yang sedang saya pelajari adalah Computer Vision.
 
 <h1></h1>
 
